@@ -1,0 +1,5 @@
+.chats {
+  background-color: white;
+  overflow: scroll;
+  flex: 1;
+}

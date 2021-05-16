@@ -1,0 +1,8 @@
+.body {
+  flex: 1;
+  background-image: url("https://s3.amazonaws.com/code.co.tz/chat-background.jpg");
+  background-repeat: repeat;
+  background-position: center;
+  padding: 30px;
+  overflow: scroll;
+}
